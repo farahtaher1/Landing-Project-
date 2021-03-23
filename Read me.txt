@@ -1,0 +1,2 @@
+it is a website containing 4 sections and has 4 links for each sections
+that goes to each section by clicking on it.
